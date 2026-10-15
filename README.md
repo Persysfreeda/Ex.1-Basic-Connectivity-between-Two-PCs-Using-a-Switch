@@ -50,5 +50,7 @@ ________________________________________
 
 ________________________________________
 # Result
+
+
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
 	
