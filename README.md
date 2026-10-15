@@ -49,8 +49,13 @@ ________________________________________
 <img width="1917" height="1197" alt="Screenshot 2026-10-15 193508" src="https://github.com/user-attachments/assets/eca8f8a2-fdb5-4419-989f-4fe0b06c0da6" />
 
 ________________________________________
+
+
+
+
+
 # Result
 
 
-“Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
+Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.
 	
